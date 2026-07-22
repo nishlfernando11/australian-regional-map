@@ -12,7 +12,7 @@ See the app in action — search, click the map, filter categories, and browse t
 
 <video src="https://github.com/user-attachments/assets/cb5a63c5-5bf2-4085-bf64-9e837afeb16b" controls width="100%" muted playsinline></video
 
-* Music by <a href="https://pixabay.com/users/momotmusic-36971640/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=179899">Kyrylo Momot</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=179899">Pixabay<
+* Music by <a href="https://pixabay.com/users/momotmusic-36971640/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=179899">Kyrylo Momot</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=179899">Pixabay</a>
 ---
 
 ## What is this?
