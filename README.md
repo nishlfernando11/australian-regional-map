@@ -14,7 +14,8 @@ See the app in action — search, click the map, filter categories, and browse t
   Your browser does not support embedded video. <a href="regional-map-demo.mp4">Download the demo</a>.
 </video>
 
-Music by <a href="https://pixabay.com/users/momotmusic-36971640/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=179899">Kyrylo Momot</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=179899">Pixabay</a>
+
+* Music by <a href="https://pixabay.com/users/momotmusic-36971640/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=179899">Kyrylo Momot</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=179899">Pixabay<
 ---
 
 ## What is this?
