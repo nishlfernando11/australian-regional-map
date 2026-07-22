@@ -10,16 +10,9 @@
 
 See the app in action — search, click the map, filter categories, and browse the postcode reference sidebar.
 
-<details open>
-  <summary>🎬 <b>Click to View High-Quality Project Demo</b></summary>
-  <br>
-  <iframe width="100%" height="450" 
-          src="https://youtu.be/F7W44SXnVNg" 
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen>
-  </iframe>
-</details>
+<video src="regional-map-demo.mp4" controls width="100%">
+  Your browser does not support embedded video. <a href="regional-map-demo.mp4">Download the demo</a>.
+</video>
 
 ---
 
