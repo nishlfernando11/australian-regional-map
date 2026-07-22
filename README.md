@@ -10,8 +10,8 @@
 
 See the app in action — search, click the map, filter categories, and browse the postcode reference sidebar.
 
-<video src="regional-map-demo.mp4" controls width="100%">
-  Your browser does not support embedded video. <a href="regional-map-demo.mp4">Download the demo</a>.
+<video controls width="100%" muted playsinline>
+  <source src="https://rawcdn.githack.com/nishlfernando11/australian-regional-map/0265df28c60af6fa89a38885f723e9234530aa9c/regional-map-demo.mp4" type="video/mp4">
 </video>
 
 ---
