@@ -10,10 +10,7 @@
 
 See the app in action — search, click the map, filter categories, and browse the postcode reference sidebar.
 
-<video src="[regional-map-demo.mp4](https://github.com/user-attachments/assets/cb5a63c5-5bf2-4085-bf64-9e837afeb16b)" controls width="100%">
-  Your browser does not support embedded video. <a href="regional-map-demo.mp4">Download the demo</a>.
-</video>
-
+<video src="https://github.com/user-attachments/assets/cb5a63c5-5bf2-4085-bf64-9e837afeb16b" controls width="100%" muted playsinline></video
 
 * Music by <a href="https://pixabay.com/users/momotmusic-36971640/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=179899">Kyrylo Momot</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=179899">Pixabay<
 ---
