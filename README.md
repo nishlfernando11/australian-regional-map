@@ -10,8 +10,8 @@
 
 See the app in action — search, click the map, filter categories, and browse the postcode reference sidebar.
 
-<video src="regional-map-demo-draft.mov" controls width="100%">
-  Your browser does not support embedded video. <a href="regional-map-demo-draft.mov">Download the demo</a>.
+<video src="regional-map-demo.mp4" controls width="100%">
+  Your browser does not support embedded video. <a href="regional-map-demo.mp4">Download the demo</a>.
 </video>
 
 ---

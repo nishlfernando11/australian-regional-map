@@ -1,6 +1,6 @@
 # Demo video
 
-The screen recording lives at the repo root: **`regional-map-demo-draft.mov`**
+The screen recording lives at the repo root: **`regional-map-demo.mp4`**
 
 It is embedded in the root `README.md` via an HTML `<video>` tag.
 
